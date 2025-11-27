@@ -1,0 +1,150 @@
+<?xml version="1.0" standalone="yes"?>
+<ProjectHeader>
+  <Headers>
+    <FileSz>0</FileSz>
+    <Disp>1744</Disp>
+    <TlNode>2</TlNode>
+    <TlTgs>269</TlTgs>
+    <TlScrns>9</TlScrns>
+    <TlGblKeys>0</TlGblKeys>
+    <TlAlrms>0</TlAlrms>
+    <TlPwrOnTsk>1</TlPwrOnTsk>
+    <TlGblTsk>0</TlGblTsk>
+    <NdLstSz>0</NdLstSz>
+    <TgLstSz>0</TgLstSz>
+    <ScrnLstSz>162594</ScrnLstSz>
+    <GblKeySz>0</GblKeySz>
+    <AlrmLstSz>0</AlrmLstSz>
+    <PwrOnTskSz>6</PwrOnTskSz>
+    <GblTskSz>0</GblTskSz>
+    <LoggrSz>0</LoggrSz>
+    <GblBlkSz>0</GblBlkSz>
+    <PictSz>0</PictSz>
+    <Bzrstat>1</Bzrstat>
+    <PSWchkUpld>0</PSWchkUpld>
+    <chkSystPswrd>0</chkSystPswrd>
+    <SystPswrd />
+    <rdbtnErrMsg>0</rdbtnErrMsg>
+    <MsgDurtn>0</MsgDurtn>
+    <FastScrSwt />
+  </Headers>
+  <HWInfo>
+    <Pwd />
+    <Memory>0</Memory>
+    <TouchScrn>3</TouchScrn>
+    <ExtKeyPad>16</ExtKeyPad>
+    <RwsExtKeys>0</RwsExtKeys>
+    <ColsExtKeys>4</ColsExtKeys>
+    <InptWrds>4</InptWrds>
+    <OutptWrds>0</OutptWrds>
+    <BdRate>1</BdRate>
+    <NoofDBits>1</NoofDBits>
+    <Parity>0</Parity>
+    <NoofCols>79</NoofCols>
+    <TerminateChr>0</TerminateChr>
+    <KeyQueueSz>0</KeyQueueSz>
+    <KeyQuesFull>2</KeyQuesFull>
+    <FltFrmtPort1>0</FltFrmtPort1>
+    <NoOfLangs>1</NoOfLangs>
+    <FltFrmtPort2>0</FltFrmtPort2>
+    <SelectedLang />
+    <ScrnSvrStat>0</ScrnSvrStat>
+    <ScrnSvrTime>0</ScrnSvrTime>
+    <MaxPrntChrPerScrn>63234</MaxPrntChrPerScrn>
+    <BytesFrBrdCast>0</BytesFrBrdCast>
+    <BRatePort2>1</BRatePort2>
+    <NoofDBitsPort2>1</NoofDBitsPort2>
+    <ParityPort2>0</ParityPort2>
+    <NoofColsPort2>79</NoofColsPort2>
+    <TerminateChrPort2>0</TerminateChrPort2>
+    <MaxPrntChrPerScrn2>0</MaxPrntChrPerScrn2>
+    <ScrnColPort1>0</ScrnColPort1>
+    <ByteFrmtPort1>0</ByteFrmtPort1>
+    <ByteFrmtPort2>0</ByteFrmtPort2>
+    <FrmtPort3>0</FrmtPort3>
+    <IntFrmtPort1>0</IntFrmtPort1>
+    <IntFrmtPort2>0</IntFrmtPort2>
+    <Rsrvd4>0</Rsrvd4>
+    <Rsrvd5>0</Rsrvd5>
+    <HIOLibVer>0</HIOLibVer>
+    <PzmVer>160</PzmVer>
+    <PrtclPort1>0</PrtclPort1>
+    <PrtclPort2>2</PrtclPort2>
+    <PrtclPort4>0</PrtclPort4>
+    <HiSpdCntrVer>0</HiSpdCntrVer>
+    <PrtclEth>0</PrtclEth>
+    <ExpsnModType>0</ExpsnModType>
+    <IECLang>1</IECLang>
+    <Rsrvd57 />
+    <Rsrvd58>0</Rsrvd58>
+    <DwnldTgNms>1</DwnldTgNms>
+    <EraseDLMem>1</EraseDLMem>
+    <FontType />
+    <Addr1X />
+    <Addr2X />
+    <Addr4X />
+    <Addr1dot5X />
+    <Lrl8btcom1>0</Lrl8btcom1>
+    <Lrl8btcom2>0</Lrl8btcom2>
+    <AclrtnScnTm>0</AclrtnScnTm>
+    <dwd />
+    <FltFrmtPort4>0</FltFrmtPort4>
+    <ByteFrmtPort4>0</ByteFrmtPort4>
+    <IntFrmtPort4>0</IntFrmtPort4>
+    <Lrl8btcom4>0</Lrl8btcom4>
+  </HWInfo>
+  <EV3Object>
+    <HiSpdCntr>1766</HiSpdCntr>
+    <HiSpdTimer>80</HiSpdTimer>
+    <PIDBytes>0</PIDBytes>
+    <ChnlBytes>0</ChnlBytes>
+    <LangIDBytes>50</LangIDBytes>
+    <TimePropPWM>0</TimePropPWM>
+    <AsccCOMBytes>0</AsccCOMBytes>
+    <LangIndex>0</LangIndex>
+    <HiFreqBytes>0</HiFreqBytes>
+    <TgNmBytes>0</TgNmBytes>
+    <AnlgConfBytes>82</AnlgConfBytes>
+    <ScrnSaverBytes>0</ScrnSaverBytes>
+    <MITSQSetgs>0</MITSQSetgs>
+    <StrtCom3Tgs>0</StrtCom3Tgs>
+    <TchScrnDisp>0</TchScrnDisp>
+  </EV3Object>
+  <VblHdr>
+    <VblHdrSz>40</VblHdrSz>
+    <AlrmLstSz>0</AlrmLstSz>
+    <LgrTgNmSz>0</LgrTgNmSz>
+    <EthSetgsSz>0</EthSetgsSz>
+    <TlGSMBytes>0</TlGSMBytes>
+    <TlStDMTgInfoBytes>2</TlStDMTgInfoBytes>
+    <MSlaveMBytes>0</MSlaveMBytes>
+    <MSlavePrsnt>False</MSlavePrsnt>
+    <DLggrPrsnt>False</DLggrPrsnt>
+    <TlStInitValDBytes>0</TlStInitValDBytes>
+    <TlStTgDBytes>2297</TlStTgDBytes>
+    <G9SPPrtclNodeSz>0</G9SPPrtclNodeSz>
+    <EnbleWScrn>False</EnbleWScrn>
+    <FontIndx>0</FontIndx>
+    <MntrPort>1100</MntrPort>
+    <USSDrvrBytes>0</USSDrvrBytes>
+    <DLggrPrsntEx>False</DLggrPrsntEx>
+    <DLggrPrsntQT>False</DLggrPrsntQT>
+  </VblHdr>
+  <EthStngs>
+    <DHCP>False</DHCP>
+    <Port>5000</Port>
+    <IP>192.168.0.254</IP>
+    <SubnetMask>255.255.255.0</SubnetMask>
+    <Gateway>0.0.0.0</Gateway>
+    <MntrPort>1100</MntrPort>
+  </EthStngs>
+  <ScrnSaver>
+    <UserNm />
+    <Pwd />
+  </ScrnSaver>
+  <AccessLvlHomScrNum>
+    <ScrnumNum>1</ScrnumNum>
+    <AutoLogOff>False</AutoLogOff>
+    <AutoLogOffTime>600</AutoLogOffTime>
+  </AccessLvlHomScrNum>
+</ProjectHeader>

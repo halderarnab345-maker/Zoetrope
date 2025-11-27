@@ -1,0 +1,8 @@
+<?xml version="1.0" standalone="yes"?>
+<StPwrOnMsg>
+  <PwrOnMsg>
+    <chkEnblPwrOnMsg>False</chkEnblPwrOnMsg>
+    <rdbSetPwOnMSG>False</rdbSetPwOnMSG>
+    <msg />
+  </PwrOnMsg>
+</StPwrOnMsg>

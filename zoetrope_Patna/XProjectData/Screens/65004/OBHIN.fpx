@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes"?>
+<ObjHdr>
+  <ObjectHeader>
+    <ScrnObjSz>1294</ScrnObjSz>
+    <ObjType>46</ObjType>
+    <AdjByte>0</AdjByte>
+    <TLX>0</TLX>
+    <TLY>0</TLY>
+    <BRX>304</BRX>
+    <BRY>209</BRY>
+    <ObjNo>1</ObjNo>
+    <NoOfChainedObj>0</NoOfChainedObj>
+    <Thickness>0</Thickness>
+    <BGClr>19</BGClr>
+    <FGClr>0</FGClr>
+    <FlshScrollSpd>0</FlshScrollSpd>
+    <ZLvl>0</ZLvl>
+    <Brdr>1</Brdr>
+    <Animation>0</Animation>
+    <ColrAnimation>0</ColrAnimation>
+    <ObjID>1245</ObjID>
+  </ObjectHeader>
+  <ObjectHeader>
+    <ScrnObjSz>115</ScrnObjSz>
+    <ObjType>61</ObjType>
+    <AdjByte>0</AdjByte>
+    <TLX>275</TLX>
+    <TLY>0</TLY>
+    <BRX>305</BRX>
+    <BRY>20</BRY>
+    <ObjNo>2</ObjNo>
+    <NoOfChainedObj>0</NoOfChainedObj>
+    <Thickness>1</Thickness>
+    <BGClr>26</BGClr>
+    <FGClr>0</FGClr>
+    <FlshScrollSpd>0</FlshScrollSpd>
+    <ZLvl>0</ZLvl>
+    <Brdr>1</Brdr>
+    <Animation>0</Animation>
+    <ColrAnimation>0</ColrAnimation>
+    <ObjID>1302</ObjID>
+  </ObjectHeader>
+</ObjHdr>

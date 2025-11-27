@@ -1,0 +1,270 @@
+<?xml version="1.0" standalone="yes"?>
+<TaskInfo>
+  <PowerOn>
+    <TskID>0</TskID>
+    <TskCode>256</TskCode>
+    <ScrnNo>1</ScrnNo>
+    <TgA>0</TgA>
+    <TgB>0</TgB>
+    <NoType>0</NoType>
+    <No>0</No>
+    <ScrnNoOfDEntry>0</ScrnNoOfDEntry>
+    <ObjNoOfDEntry>0</ObjNoOfDEntry>
+    <NoOfBlks>0</NoOfBlks>
+    <EnblCtrl>0</EnblCtrl>
+    <TypeOfDelay>0</TypeOfDelay>
+    <DelayVal>0</DelayVal>
+    <OpertnType>0</OpertnType>
+    <Opernd>0</Opernd>
+    <DwnldTime>0</DwnldTime>
+    <EnblTg>0</EnblTg>
+    <DoneTg>0</DoneTg>
+    <ErrTg>0</ErrTg>
+    <DateTimeTg>0</DateTimeTg>
+    <GrpTg>0</GrpTg>
+    <FilenmOrTg>0</FilenmOrTg>
+    <FileNmTg>0</FileNmTg>
+    <FileNm>0</FileNm>
+    <StatRegTg>0</StatRegTg>
+    <NumKeyCode>0</NumKeyCode>
+    <GrpNo>0</GrpNo>
+    <PortNo>0</PortNo>
+    <RTCNo>0</RTCNo>
+  </PowerOn>
+  <Global>
+    <TskID />
+    <TskCode />
+    <ScrnNo />
+    <TgA />
+    <TgB />
+    <NoType />
+    <No />
+    <ScrnNoOfDEntry />
+    <ObjNoOfDEntry />
+    <NoOfBlks />
+    <EnblCtrl />
+    <TypeOfDelay />
+    <DelayVal />
+    <OpertnType />
+    <Opernd />
+    <DwnldTime />
+    <EnblTg />
+    <DoneTg />
+    <ErrTg />
+    <DateTimeTg />
+    <GrpTg />
+    <FilenmOrTg />
+    <FileNmTg />
+    <FileNm />
+    <StatRegTg />
+    <NumKeyCode />
+    <GrpNo />
+    <PortNo />
+    <RTCNo />
+    <ATgIsTA />
+    <ATgIsFV />
+    <ATgAD1 />
+    <AtgAD2 />
+    <AtgAD3 />
+    <AtgF1 />
+    <AtgF2 />
+    <AtgF3 />
+    <AtgV1D />
+    <AtgV2D />
+    <AtgV3D />
+    <AtgV1N />
+    <AtgV2N />
+    <AtgV3N />
+    <BTgIsTA />
+    <BTgIsFV />
+    <BTgAD1 />
+    <BtgAD2 />
+    <BtgAD3 />
+    <BtgF1 />
+    <BtgF2 />
+    <BtgF3 />
+    <BtgV1D />
+    <BtgV2D />
+    <BtgV3D />
+    <BtgV1N />
+    <BtgV2N />
+    <BtgV3N />
+  </Global>
+  <BS>
+    <TskID />
+    <TskCode />
+    <ScrnNo />
+    <TgA />
+    <TgB />
+    <NoType />
+    <No />
+    <ScrnNoOfDEntry />
+    <ObjNoOfDEntry />
+    <NoOfBlks />
+    <EnblCtrl />
+    <TypeOfDelay />
+    <DelayVal />
+    <OpertnType />
+    <Opernd />
+    <DwnldTime />
+    <EnblTg />
+    <DoneTg />
+    <ErrTg />
+    <DateTimeTg />
+    <GrpTg />
+    <FilenmOrTg />
+    <FileNmTg />
+    <FileNm />
+    <StatRegTg />
+    <NumKeyCode />
+    <GrpNo />
+    <PortNo />
+    <RTCNo />
+    <ATgIsTA />
+    <ATgIsFV />
+    <ATgAD1 />
+    <AtgAD2 />
+    <AtgAD3 />
+    <AtgF1 />
+    <AtgF2 />
+    <AtgF3 />
+    <AtgV1D />
+    <AtgV2D />
+    <AtgV3D />
+    <AtgV1N />
+    <AtgV2N />
+    <AtgV3N />
+    <BTgIsTA />
+    <BTgIsFV />
+    <BTgAD1 />
+    <BtgAD2 />
+    <BtgAD3 />
+    <BtgF1 />
+    <BtgF2 />
+    <BtgF3 />
+    <BtgV1D />
+    <BtgV2D />
+    <BtgV3D />
+    <BtgV1N />
+    <BtgV2N />
+    <BtgV3N />
+  </BS>
+  <WS>
+    <TskID />
+    <TskCode />
+    <ScrnNo />
+    <TgA />
+    <TgB />
+    <NoType />
+    <No />
+    <ScrnNoOfDEntry />
+    <ObjNoOfDEntry />
+    <NoOfBlks />
+    <EnblCtrl />
+    <TypeOfDelay />
+    <DelayVal />
+    <OpertnType />
+    <Opernd />
+    <DwnldTime />
+    <EnblTg />
+    <DoneTg />
+    <ErrTg />
+    <DateTimeTg />
+    <GrpTg />
+    <FilenmOrTg />
+    <FileNmTg />
+    <FileNm />
+    <StatRegTg />
+    <NumKeyCode />
+    <GrpNo />
+    <PortNo />
+    <RTCNo />
+    <ATgIsTA />
+    <ATgIsFV />
+    <ATgAD1 />
+    <AtgAD2 />
+    <AtgAD3 />
+    <AtgF1 />
+    <AtgF2 />
+    <AtgF3 />
+    <AtgV1D />
+    <AtgV2D />
+    <AtgV3D />
+    <AtgV1N />
+    <AtgV2N />
+    <AtgV3N />
+    <BTgIsTA />
+    <BTgIsFV />
+    <BTgAD1 />
+    <BtgAD2 />
+    <BtgAD3 />
+    <BtgF1 />
+    <BtgF2 />
+    <BtgF3 />
+    <BtgV1D />
+    <BtgV2D />
+    <BtgV3D />
+    <BtgV1N />
+    <BtgV2N />
+    <BtgV3N />
+  </WS>
+  <AH>
+    <TskID />
+    <TskCode />
+    <ScrnNo />
+    <TgA />
+    <TgB />
+    <NoType />
+    <No />
+    <ScrnNoOfDEntry />
+    <ObjNoOfDEntry />
+    <NoOfBlks />
+    <EnblCtrl />
+    <TypeOfDelay />
+    <DelayVal />
+    <OpertnType />
+    <Opernd />
+    <DwnldTime />
+    <EnblTg />
+    <DoneTg />
+    <ErrTg />
+    <DateTimeTg />
+    <GrpTg />
+    <FilenmOrTg />
+    <FileNmTg />
+    <FileNm />
+    <StatRegTg />
+    <NumKeyCode />
+    <GrpNo />
+    <PortNo />
+    <RTCNo />
+    <ATgIsTA />
+    <ATgIsFV />
+    <ATgAD1 />
+    <AtgAD2 />
+    <AtgAD3 />
+    <AtgF1 />
+    <AtgF2 />
+    <AtgF3 />
+    <AtgV1D />
+    <AtgV2D />
+    <AtgV3D />
+    <AtgV1N />
+    <AtgV2N />
+    <AtgV3N />
+    <BTgIsTA />
+    <BTgIsFV />
+    <BTgAD1 />
+    <BtgAD2 />
+    <BtgAD3 />
+    <BtgF1 />
+    <BtgF2 />
+    <BtgF3 />
+    <BtgV1D />
+    <BtgV2D />
+    <BtgV3D />
+    <BtgV1N />
+    <BtgV2N />
+    <BtgV3N />
+  </AH>
+</TaskInfo>

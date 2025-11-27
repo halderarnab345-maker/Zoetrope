@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="yes"?>
+<Object>
+  <ObjInfo>
+    <ObjID>1032</ObjID>
+    <DTgID>-1</DTgID>
+    <IDTgID>-1</IDTgID>
+    <Txt>Enter Password</Txt>
+    <Trans>No</Trans>
+  </ObjInfo>
+  <ObjInfo>
+    <ObjID>1033</ObjID>
+    <DTgID>-1</DTgID>
+    <IDTgID>-1</IDTgID>
+    <Txt>ENT:Accept password CLR:Clear password</Txt>
+    <Trans>No</Trans>
+  </ObjInfo>
+  <ObjInfo>
+    <ObjID>1034</ObjID>
+    <DTgID>-1</DTgID>
+    <IDTgID>-1</IDTgID>
+    <Txt>Abort:Previous screen</Txt>
+    <Trans>No</Trans>
+  </ObjInfo>
+</Object>

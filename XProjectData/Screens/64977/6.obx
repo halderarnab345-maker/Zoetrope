@@ -1,0 +1,70 @@
+<?xml version="1.0" standalone="yes"?>
+<Object>
+  <ObjInfo>
+    <ObjID>1093</ObjID>
+    <DTgID>-1</DTgID>
+    <IDTgID>110</IDTgID>
+    <TlPairsOfRngAndTxt>6</TlPairsOfRngAndTxt>
+    <ChrOfFaceNm>Arial</ChrOfFaceNm>
+    <FntSz>10</FntSz>
+    <FntStyle>0</FntStyle>
+    <ATgIsTA>False</ATgIsTA>
+    <ATgIsFV>False</ATgIsFV>
+    <ATgAD1>0</ATgAD1>
+    <AtgAD2>0</AtgAD2>
+    <AtgAD3>0</AtgAD3>
+    <AtgF1>0</AtgF1>
+    <AtgF2>0</AtgF2>
+    <AtgF3>0</AtgF3>
+    <AtgV1D />
+    <AtgV2D />
+    <AtgV3D />
+    <AtgV1N />
+    <AtgV2N />
+    <AtgV3N />
+    <TxtAlign>0</TxtAlign>
+    <Trans>False</Trans>
+  </ObjInfo>
+  <RngTxtInfo>
+    <ObjID>1093</ObjID>
+    <RngeNo>0</RngeNo>
+    <LoLmt>0</LoLmt>
+    <HiLmt>0</HiLmt>
+    <Txt xml:space="preserve">                </Txt>
+  </RngTxtInfo>
+  <RngTxtInfo>
+    <ObjID>1093</ObjID>
+    <RngeNo>1</RngeNo>
+    <LoLmt>1</LoLmt>
+    <HiLmt>1</HiLmt>
+    <Txt>Invalid password</Txt>
+  </RngTxtInfo>
+  <RngTxtInfo>
+    <ObjID>1093</ObjID>
+    <RngeNo>2</RngeNo>
+    <LoLmt>2</LoLmt>
+    <HiLmt>2</HiLmt>
+    <Txt>User not logged-in</Txt>
+  </RngTxtInfo>
+  <RngTxtInfo>
+    <ObjID>1093</ObjID>
+    <RngeNo>3</RngeNo>
+    <LoLmt>3</LoLmt>
+    <HiLmt>3</HiLmt>
+    <Txt>Password is incorrect</Txt>
+  </RngTxtInfo>
+  <RngTxtInfo>
+    <ObjID>1093</ObjID>
+    <RngeNo>4</RngeNo>
+    <LoLmt>4</LoLmt>
+    <HiLmt>4</HiLmt>
+    <Txt>Passwords do not match</Txt>
+  </RngTxtInfo>
+  <RngTxtInfo>
+    <ObjID>1093</ObjID>
+    <RngeNo>5</RngeNo>
+    <LoLmt>5</LoLmt>
+    <HiLmt>5</HiLmt>
+    <Txt>No user is logged-in</Txt>
+  </RngTxtInfo>
+</Object>

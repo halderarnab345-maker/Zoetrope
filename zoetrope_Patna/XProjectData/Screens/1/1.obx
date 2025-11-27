@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="yes"?>
+<Object>
+  <ObjInfo>
+    <ObjID>1303</ObjID>
+    <DTgID>-1</DTgID>
+    <IDTgID>-1</IDTgID>
+    <Txt>RPM</Txt>
+    <Trans>No</Trans>
+  </ObjInfo>
+  <ObjInfo>
+    <ObjID>1071</ObjID>
+    <DTgID>-1</DTgID>
+    <IDTgID>-1</IDTgID>
+    <Txt>SET SPEED</Txt>
+    <Trans>No</Trans>
+  </ObjInfo>
+  <ObjInfo>
+    <ObjID>1376</ObjID>
+    <DTgID>-1</DTgID>
+    <IDTgID>-1</IDTgID>
+    <Txt>ZOETROPE</Txt>
+    <Trans>No</Trans>
+  </ObjInfo>
+  <ObjInfo>
+    <ObjID>1874</ObjID>
+    <DTgID>-1</DTgID>
+    <IDTgID>-1</IDTgID>
+    <Txt>S</Txt>
+    <Trans>No</Trans>
+  </ObjInfo>
+  <ObjInfo>
+    <ObjID>1876</ObjID>
+    <DTgID>-1</DTgID>
+    <IDTgID>-1</IDTgID>
+    <Txt>SET TIME</Txt>
+    <Trans>No</Trans>
+  </ObjInfo>
+  <ObjInfo>
+    <ObjID>2100</ObjID>
+    <DTgID>-1</DTgID>
+    <IDTgID>-1</IDTgID>
+    <Txt>Ambient</Txt>
+    <Trans>No</Trans>
+  </ObjInfo>
+  <ObjInfo>
+    <ObjID>2106</ObjID>
+    <DTgID>-1</DTgID>
+    <IDTgID>-1</IDTgID>
+    <Txt>Strobo</Txt>
+    <Trans>No</Trans>
+  </ObjInfo>
+</Object>

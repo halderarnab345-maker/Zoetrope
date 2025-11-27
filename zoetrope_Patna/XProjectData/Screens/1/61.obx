@@ -1,0 +1,661 @@
+<?xml version="1.0" standalone="yes"?>
+<Object>
+  <ObjInfo>
+    <ObjID>1341</ObjID>
+    <DTgID>-1</DTgID>
+    <IDTgID>-1</IDTgID>
+    <SimLang>0</SimLang>
+    <ShwHdEnblTsk>False</ShwHdEnblTsk>
+    <EnblBitTgID>-1</EnblBitTgID>
+    <NoOfLang>1</NoOfLang>
+    <FBTag>0</FBTag>
+    <BtnStyle>0</BtnStyle>
+    <ShpID>42</ShpID>
+    <OnTxtBtnStyle>1</OnTxtBtnStyle>
+    <OffTxtBtnStyle>0</OffTxtBtnStyle>
+    <Border>0</Border>
+    <Lbl>0</Lbl>
+    <Gradient>0</Gradient>
+    <OnClickAction>No Action</OnClickAction>
+    <MouseHover>0</MouseHover>
+    <ATgIsTA>False</ATgIsTA>
+    <ATgIsFV>False</ATgIsFV>
+    <ATgAD1>0</ATgAD1>
+    <AtgAD2>0</AtgAD2>
+    <AtgAD3>0</AtgAD3>
+    <AtgF1>0</AtgF1>
+    <AtgF2>0</AtgF2>
+    <AtgF3>0</AtgF3>
+    <AtgV1D />
+    <AtgV2D />
+    <AtgV3D />
+    <AtgV1N />
+    <AtgV2N />
+    <AtgV3N />
+    <Trans>False</Trans>
+    <TextAlign>0</TextAlign>
+  </ObjInfo>
+  <ObjInfo>
+    <ObjID>1077</ObjID>
+    <DTgID>-1</DTgID>
+    <IDTgID>233</IDTgID>
+    <SimLang>0</SimLang>
+    <ShwHdEnblTsk>False</ShwHdEnblTsk>
+    <EnblBitTgID>-1</EnblBitTgID>
+    <NoOfLang>1</NoOfLang>
+    <FBTag>1</FBTag>
+    <BtnStyle>0</BtnStyle>
+    <ShpID>17</ShpID>
+    <OnTxtBtnStyle>0</OnTxtBtnStyle>
+    <OffTxtBtnStyle>0</OffTxtBtnStyle>
+    <Border>1</Border>
+    <Lbl>0</Lbl>
+    <Gradient>0</Gradient>
+    <OnClickAction>No Action</OnClickAction>
+    <MouseHover>0</MouseHover>
+    <ATgIsTA>False</ATgIsTA>
+    <ATgIsFV>False</ATgIsFV>
+    <ATgAD1>0</ATgAD1>
+    <AtgAD2>0</AtgAD2>
+    <AtgAD3>0</AtgAD3>
+    <AtgF1>0</AtgF1>
+    <AtgF2>0</AtgF2>
+    <AtgF3>0</AtgF3>
+    <AtgV1D />
+    <AtgV2D />
+    <AtgV3D />
+    <AtgV1N />
+    <AtgV2N />
+    <AtgV3N />
+    <Trans>False</Trans>
+    <TextAlign>0</TextAlign>
+  </ObjInfo>
+  <ObjInfo>
+    <ObjID>1346</ObjID>
+    <DTgID>-1</DTgID>
+    <IDTgID>-1</IDTgID>
+    <SimLang>0</SimLang>
+    <ShwHdEnblTsk>False</ShwHdEnblTsk>
+    <EnblBitTgID>-1</EnblBitTgID>
+    <NoOfLang>1</NoOfLang>
+    <FBTag>0</FBTag>
+    <BtnStyle>0</BtnStyle>
+    <ShpID>83</ShpID>
+    <OnTxtBtnStyle>1</OnTxtBtnStyle>
+    <OffTxtBtnStyle>0</OffTxtBtnStyle>
+    <Border>0</Border>
+    <Lbl>0</Lbl>
+    <Gradient>0</Gradient>
+    <OnClickAction>No Action</OnClickAction>
+    <MouseHover>0</MouseHover>
+    <ATgIsTA>False</ATgIsTA>
+    <ATgIsFV>False</ATgIsFV>
+    <ATgAD1>0</ATgAD1>
+    <AtgAD2>0</AtgAD2>
+    <AtgAD3>0</AtgAD3>
+    <AtgF1>0</AtgF1>
+    <AtgF2>0</AtgF2>
+    <AtgF3>0</AtgF3>
+    <AtgV1D />
+    <AtgV2D />
+    <AtgV3D />
+    <AtgV1N />
+    <AtgV2N />
+    <AtgV3N />
+    <Trans>False</Trans>
+    <TextAlign>0</TextAlign>
+  </ObjInfo>
+  <ObjInfo>
+    <ObjID>1600</ObjID>
+    <DTgID>-1</DTgID>
+    <IDTgID>253</IDTgID>
+    <SimLang>0</SimLang>
+    <ShwHdEnblTsk>False</ShwHdEnblTsk>
+    <EnblBitTgID>-1</EnblBitTgID>
+    <NoOfLang>1</NoOfLang>
+    <FBTag>1</FBTag>
+    <BtnStyle>0</BtnStyle>
+    <ShpID>17</ShpID>
+    <OnTxtBtnStyle>0</OnTxtBtnStyle>
+    <OffTxtBtnStyle>0</OffTxtBtnStyle>
+    <Border>1</Border>
+    <Lbl>0</Lbl>
+    <Gradient>0</Gradient>
+    <OnClickAction>No Action</OnClickAction>
+    <MouseHover>0</MouseHover>
+    <ATgIsTA>False</ATgIsTA>
+    <ATgIsFV>False</ATgIsFV>
+    <ATgAD1>0</ATgAD1>
+    <AtgAD2>0</AtgAD2>
+    <AtgAD3>0</AtgAD3>
+    <AtgF1>0</AtgF1>
+    <AtgF2>0</AtgF2>
+    <AtgF3>0</AtgF3>
+    <AtgV1D />
+    <AtgV2D />
+    <AtgV3D />
+    <AtgV1N />
+    <AtgV2N />
+    <AtgV3N />
+    <Trans>False</Trans>
+    <TextAlign>0</TextAlign>
+  </ObjInfo>
+  <ObjInfo>
+    <ObjID>1619</ObjID>
+    <DTgID>-1</DTgID>
+    <IDTgID>341</IDTgID>
+    <SimLang>0</SimLang>
+    <ShwHdEnblTsk>False</ShwHdEnblTsk>
+    <EnblBitTgID>-1</EnblBitTgID>
+    <NoOfLang>1</NoOfLang>
+    <FBTag>1</FBTag>
+    <BtnStyle>0</BtnStyle>
+    <ShpID>17</ShpID>
+    <OnTxtBtnStyle>0</OnTxtBtnStyle>
+    <OffTxtBtnStyle>0</OffTxtBtnStyle>
+    <Border>1</Border>
+    <Lbl>0</Lbl>
+    <Gradient>0</Gradient>
+    <OnClickAction>No Action</OnClickAction>
+    <MouseHover>0</MouseHover>
+    <ATgIsTA>False</ATgIsTA>
+    <ATgIsFV>False</ATgIsFV>
+    <ATgAD1>0</ATgAD1>
+    <AtgAD2>0</AtgAD2>
+    <AtgAD3>0</AtgAD3>
+    <AtgF1>0</AtgF1>
+    <AtgF2>0</AtgF2>
+    <AtgF3>0</AtgF3>
+    <AtgV1D />
+    <AtgV2D />
+    <AtgV3D />
+    <AtgV1N />
+    <AtgV2N />
+    <AtgV3N />
+    <Trans>False</Trans>
+    <TextAlign>0</TextAlign>
+  </ObjInfo>
+  <ObjInfo>
+    <ObjID>2099</ObjID>
+    <DTgID>-1</DTgID>
+    <IDTgID>343</IDTgID>
+    <SimLang>0</SimLang>
+    <ShwHdEnblTsk>False</ShwHdEnblTsk>
+    <EnblBitTgID>-1</EnblBitTgID>
+    <NoOfLang>1</NoOfLang>
+    <FBTag>1</FBTag>
+    <BtnStyle>0</BtnStyle>
+    <ShpID>17</ShpID>
+    <OnTxtBtnStyle>0</OnTxtBtnStyle>
+    <OffTxtBtnStyle>0</OffTxtBtnStyle>
+    <Border>1</Border>
+    <Lbl>0</Lbl>
+    <Gradient>0</Gradient>
+    <OnClickAction>No Action</OnClickAction>
+    <MouseHover>0</MouseHover>
+    <ATgIsTA>False</ATgIsTA>
+    <ATgIsFV>False</ATgIsFV>
+    <ATgAD1>0</ATgAD1>
+    <AtgAD2>0</AtgAD2>
+    <AtgAD3>0</AtgAD3>
+    <AtgF1>0</AtgF1>
+    <AtgF2>0</AtgF2>
+    <AtgF3>0</AtgF3>
+    <AtgV1D />
+    <AtgV2D />
+    <AtgV3D />
+    <AtgV1N />
+    <AtgV2N />
+    <AtgV3N />
+    <Trans>False</Trans>
+    <TextAlign>0</TextAlign>
+  </ObjInfo>
+  <ObjInfo>
+    <ObjID>2105</ObjID>
+    <DTgID>-1</DTgID>
+    <IDTgID>344</IDTgID>
+    <SimLang>0</SimLang>
+    <ShwHdEnblTsk>False</ShwHdEnblTsk>
+    <EnblBitTgID>-1</EnblBitTgID>
+    <NoOfLang>1</NoOfLang>
+    <FBTag>1</FBTag>
+    <BtnStyle>0</BtnStyle>
+    <ShpID>17</ShpID>
+    <OnTxtBtnStyle>0</OnTxtBtnStyle>
+    <OffTxtBtnStyle>0</OffTxtBtnStyle>
+    <Border>1</Border>
+    <Lbl>0</Lbl>
+    <Gradient>0</Gradient>
+    <OnClickAction>No Action</OnClickAction>
+    <MouseHover>0</MouseHover>
+    <ATgIsTA>False</ATgIsTA>
+    <ATgIsFV>False</ATgIsFV>
+    <ATgAD1>0</ATgAD1>
+    <AtgAD2>0</AtgAD2>
+    <AtgAD3>0</AtgAD3>
+    <AtgF1>0</AtgF1>
+    <AtgF2>0</AtgF2>
+    <AtgF3>0</AtgF3>
+    <AtgV1D />
+    <AtgV2D />
+    <AtgV3D />
+    <AtgV1N />
+    <AtgV2N />
+    <AtgV3N />
+    <Trans>False</Trans>
+    <TextAlign>0</TextAlign>
+  </ObjInfo>
+  <LabelInfo>
+    <ObjID>1341</ObjID>
+    <LblPos>0</LblPos>
+    <LblColr>0</LblColr>
+    <LblBGColr>19</LblBGColr>
+    <LblPtrn>0</LblPtrn>
+    <LblPtrnCol>0</LblPtrnCol>
+    <LblChrOfFaceNm>Tahoma</LblChrOfFaceNm>
+    <LblFntSz>10</LblFntSz>
+    <LblFntStyle>0</LblFntStyle>
+  </LabelInfo>
+  <LabelInfo>
+    <ObjID>1077</ObjID>
+    <LblPos>0</LblPos>
+    <LblColr>0</LblColr>
+    <LblBGColr>19</LblBGColr>
+    <LblPtrn>0</LblPtrn>
+    <LblPtrnCol>0</LblPtrnCol>
+    <LblChrOfFaceNm>Tahoma</LblChrOfFaceNm>
+    <LblFntSz>10</LblFntSz>
+    <LblFntStyle>0</LblFntStyle>
+  </LabelInfo>
+  <LabelInfo>
+    <ObjID>1346</ObjID>
+    <LblPos>0</LblPos>
+    <LblColr>0</LblColr>
+    <LblBGColr>19</LblBGColr>
+    <LblPtrn>0</LblPtrn>
+    <LblPtrnCol>0</LblPtrnCol>
+    <LblChrOfFaceNm>Tahoma</LblChrOfFaceNm>
+    <LblFntSz>10</LblFntSz>
+    <LblFntStyle>0</LblFntStyle>
+  </LabelInfo>
+  <LabelInfo>
+    <ObjID>1600</ObjID>
+    <LblPos>0</LblPos>
+    <LblColr>0</LblColr>
+    <LblBGColr>19</LblBGColr>
+    <LblPtrn>0</LblPtrn>
+    <LblPtrnCol>0</LblPtrnCol>
+    <LblChrOfFaceNm>Tahoma</LblChrOfFaceNm>
+    <LblFntSz>10</LblFntSz>
+    <LblFntStyle>0</LblFntStyle>
+  </LabelInfo>
+  <LabelInfo>
+    <ObjID>1619</ObjID>
+    <LblPos>0</LblPos>
+    <LblColr>0</LblColr>
+    <LblBGColr>19</LblBGColr>
+    <LblPtrn>0</LblPtrn>
+    <LblPtrnCol>0</LblPtrnCol>
+    <LblChrOfFaceNm>Tahoma</LblChrOfFaceNm>
+    <LblFntSz>10</LblFntSz>
+    <LblFntStyle>0</LblFntStyle>
+  </LabelInfo>
+  <LabelInfo>
+    <ObjID>2099</ObjID>
+    <LblPos>0</LblPos>
+    <LblColr>0</LblColr>
+    <LblBGColr>19</LblBGColr>
+    <LblPtrn>0</LblPtrn>
+    <LblPtrnCol>0</LblPtrnCol>
+    <LblChrOfFaceNm>Tahoma</LblChrOfFaceNm>
+    <LblFntSz>10</LblFntSz>
+    <LblFntStyle>0</LblFntStyle>
+  </LabelInfo>
+  <LabelInfo>
+    <ObjID>2105</ObjID>
+    <LblPos>0</LblPos>
+    <LblColr>0</LblColr>
+    <LblBGColr>19</LblBGColr>
+    <LblPtrn>0</LblPtrn>
+    <LblPtrnCol>0</LblPtrnCol>
+    <LblChrOfFaceNm>Tahoma</LblChrOfFaceNm>
+    <LblFntSz>10</LblFntSz>
+    <LblFntStyle>0</LblFntStyle>
+  </LabelInfo>
+  <OnTextInfo>
+    <ObjID>1341</ObjID>
+    <TxtColIndx>0</TxtColIndx>
+    <LblTxtBgCol>19</LblTxtBgCol>
+    <LblTxtPtrn>0</LblTxtPtrn>
+    <LblTxtPtrnCol>0</LblTxtPtrnCol>
+    <OnTxtChrFaceNm>Arial</OnTxtChrFaceNm>
+    <OnTxtFntSz>12</OnTxtFntSz>
+    <OnTxtFntStyle>1</OnTxtFntStyle>
+    <ImgNm />
+    <GradientCol>0</GradientCol>
+    <OnClickActionCol>0</OnClickActionCol>
+    <MouseHoverCol>0</MouseHoverCol>
+  </OnTextInfo>
+  <OnTextInfo>
+    <ObjID>1077</ObjID>
+    <TxtColIndx>0</TxtColIndx>
+    <LblTxtBgCol>129</LblTxtBgCol>
+    <LblTxtPtrn>0</LblTxtPtrn>
+    <LblTxtPtrnCol>0</LblTxtPtrnCol>
+    <OnTxtChrFaceNm>Arial</OnTxtChrFaceNm>
+    <OnTxtFntSz>12</OnTxtFntSz>
+    <OnTxtFntStyle>0</OnTxtFntStyle>
+    <ImgNm />
+    <GradientCol>0</GradientCol>
+    <OnClickActionCol>0</OnClickActionCol>
+    <MouseHoverCol>0</MouseHoverCol>
+  </OnTextInfo>
+  <OnTextInfo>
+    <ObjID>1346</ObjID>
+    <TxtColIndx>158</TxtColIndx>
+    <LblTxtBgCol>19</LblTxtBgCol>
+    <LblTxtPtrn>0</LblTxtPtrn>
+    <LblTxtPtrnCol>0</LblTxtPtrnCol>
+    <OnTxtChrFaceNm>Arial</OnTxtChrFaceNm>
+    <OnTxtFntSz>12</OnTxtFntSz>
+    <OnTxtFntStyle>1</OnTxtFntStyle>
+    <ImgNm />
+    <GradientCol>0</GradientCol>
+    <OnClickActionCol>0</OnClickActionCol>
+    <MouseHoverCol>0</MouseHoverCol>
+  </OnTextInfo>
+  <OnTextInfo>
+    <ObjID>1600</ObjID>
+    <TxtColIndx>0</TxtColIndx>
+    <LblTxtBgCol>115</LblTxtBgCol>
+    <LblTxtPtrn>0</LblTxtPtrn>
+    <LblTxtPtrnCol>0</LblTxtPtrnCol>
+    <OnTxtChrFaceNm>Arial</OnTxtChrFaceNm>
+    <OnTxtFntSz>12</OnTxtFntSz>
+    <OnTxtFntStyle>0</OnTxtFntStyle>
+    <ImgNm />
+    <GradientCol>0</GradientCol>
+    <OnClickActionCol>0</OnClickActionCol>
+    <MouseHoverCol>0</MouseHoverCol>
+  </OnTextInfo>
+  <OnTextInfo>
+    <ObjID>1619</ObjID>
+    <TxtColIndx>0</TxtColIndx>
+    <LblTxtBgCol>115</LblTxtBgCol>
+    <LblTxtPtrn>0</LblTxtPtrn>
+    <LblTxtPtrnCol>0</LblTxtPtrnCol>
+    <OnTxtChrFaceNm>Arial</OnTxtChrFaceNm>
+    <OnTxtFntSz>12</OnTxtFntSz>
+    <OnTxtFntStyle>0</OnTxtFntStyle>
+    <ImgNm />
+    <GradientCol>0</GradientCol>
+    <OnClickActionCol>0</OnClickActionCol>
+    <MouseHoverCol>0</MouseHoverCol>
+  </OnTextInfo>
+  <OnTextInfo>
+    <ObjID>2099</ObjID>
+    <TxtColIndx>115</TxtColIndx>
+    <LblTxtBgCol>115</LblTxtBgCol>
+    <LblTxtPtrn>0</LblTxtPtrn>
+    <LblTxtPtrnCol>0</LblTxtPtrnCol>
+    <OnTxtChrFaceNm>Arial</OnTxtChrFaceNm>
+    <OnTxtFntSz>12</OnTxtFntSz>
+    <OnTxtFntStyle>0</OnTxtFntStyle>
+    <ImgNm />
+    <GradientCol>0</GradientCol>
+    <OnClickActionCol>0</OnClickActionCol>
+    <MouseHoverCol>0</MouseHoverCol>
+  </OnTextInfo>
+  <OnTextInfo>
+    <ObjID>2105</ObjID>
+    <TxtColIndx>115</TxtColIndx>
+    <LblTxtBgCol>115</LblTxtBgCol>
+    <LblTxtPtrn>0</LblTxtPtrn>
+    <LblTxtPtrnCol>0</LblTxtPtrnCol>
+    <OnTxtChrFaceNm>Arial</OnTxtChrFaceNm>
+    <OnTxtFntSz>12</OnTxtFntSz>
+    <OnTxtFntStyle>0</OnTxtFntStyle>
+    <ImgNm />
+    <GradientCol>0</GradientCol>
+    <OnClickActionCol>0</OnClickActionCol>
+    <MouseHoverCol>0</MouseHoverCol>
+  </OnTextInfo>
+  <OffTextInfo>
+    <ObjID>1341</ObjID>
+    <TxtColIndx>0</TxtColIndx>
+    <LblTxtBgCol>19</LblTxtBgCol>
+    <LblTxtPtrn>0</LblTxtPtrn>
+    <LblTxtPtrnCol>0</LblTxtPtrnCol>
+    <OffTxtChrFaceNm>Arial</OffTxtChrFaceNm>
+    <OffTxtFntSz>12</OffTxtFntSz>
+    <OffTxtFntStyle>0</OffTxtFntStyle>
+    <ImgNm />
+  </OffTextInfo>
+  <OffTextInfo>
+    <ObjID>1077</ObjID>
+    <TxtColIndx>0</TxtColIndx>
+    <LblTxtBgCol>57</LblTxtBgCol>
+    <LblTxtPtrn>0</LblTxtPtrn>
+    <LblTxtPtrnCol>0</LblTxtPtrnCol>
+    <OffTxtChrFaceNm>Arial</OffTxtChrFaceNm>
+    <OffTxtFntSz>12</OffTxtFntSz>
+    <OffTxtFntStyle>0</OffTxtFntStyle>
+    <ImgNm />
+  </OffTextInfo>
+  <OffTextInfo>
+    <ObjID>1346</ObjID>
+    <TxtColIndx>0</TxtColIndx>
+    <LblTxtBgCol>19</LblTxtBgCol>
+    <LblTxtPtrn>0</LblTxtPtrn>
+    <LblTxtPtrnCol>0</LblTxtPtrnCol>
+    <OffTxtChrFaceNm>Arial</OffTxtChrFaceNm>
+    <OffTxtFntSz>12</OffTxtFntSz>
+    <OffTxtFntStyle>0</OffTxtFntStyle>
+    <ImgNm />
+  </OffTextInfo>
+  <OffTextInfo>
+    <ObjID>1600</ObjID>
+    <TxtColIndx>0</TxtColIndx>
+    <LblTxtBgCol>57</LblTxtBgCol>
+    <LblTxtPtrn>0</LblTxtPtrn>
+    <LblTxtPtrnCol>0</LblTxtPtrnCol>
+    <OffTxtChrFaceNm>Arial</OffTxtChrFaceNm>
+    <OffTxtFntSz>12</OffTxtFntSz>
+    <OffTxtFntStyle>0</OffTxtFntStyle>
+    <ImgNm />
+  </OffTextInfo>
+  <OffTextInfo>
+    <ObjID>1619</ObjID>
+    <TxtColIndx>0</TxtColIndx>
+    <LblTxtBgCol>57</LblTxtBgCol>
+    <LblTxtPtrn>0</LblTxtPtrn>
+    <LblTxtPtrnCol>0</LblTxtPtrnCol>
+    <OffTxtChrFaceNm>Arial</OffTxtChrFaceNm>
+    <OffTxtFntSz>12</OffTxtFntSz>
+    <OffTxtFntStyle>0</OffTxtFntStyle>
+    <ImgNm />
+  </OffTextInfo>
+  <OffTextInfo>
+    <ObjID>2099</ObjID>
+    <TxtColIndx>10</TxtColIndx>
+    <LblTxtBgCol>10</LblTxtBgCol>
+    <LblTxtPtrn>0</LblTxtPtrn>
+    <LblTxtPtrnCol>0</LblTxtPtrnCol>
+    <OffTxtChrFaceNm>Arial</OffTxtChrFaceNm>
+    <OffTxtFntSz>12</OffTxtFntSz>
+    <OffTxtFntStyle>0</OffTxtFntStyle>
+    <ImgNm />
+  </OffTextInfo>
+  <OffTextInfo>
+    <ObjID>2105</ObjID>
+    <TxtColIndx>10</TxtColIndx>
+    <LblTxtBgCol>10</LblTxtBgCol>
+    <LblTxtPtrn>0</LblTxtPtrn>
+    <LblTxtPtrnCol>0</LblTxtPtrnCol>
+    <OffTxtChrFaceNm>Arial</OffTxtChrFaceNm>
+    <OffTxtFntSz>12</OffTxtFntSz>
+    <OffTxtFntStyle>0</OffTxtFntStyle>
+    <ImgNm />
+  </OffTextInfo>
+  <TextCharInfo>
+    <ObjID>1341</ObjID>
+    <LangID>0</LangID>
+    <LblTxtChr>Label</LblTxtChr>
+    <OnTxtChr>ENABLE / START</OnTxtChr>
+    <OffTxtChr>Off</OffTxtChr>
+  </TextCharInfo>
+  <TextCharInfo>
+    <ObjID>1077</ObjID>
+    <LangID>0</LangID>
+    <LblTxtChr>Label</LblTxtChr>
+    <OnTxtChr>RUN</OnTxtChr>
+    <OffTxtChr>STOP</OffTxtChr>
+  </TextCharInfo>
+  <TextCharInfo>
+    <ObjID>1346</ObjID>
+    <LangID>0</LangID>
+    <LblTxtChr>Label</LblTxtChr>
+    <OnTxtChr>RESET</OnTxtChr>
+    <OffTxtChr>Off</OffTxtChr>
+  </TextCharInfo>
+  <TextCharInfo>
+    <ObjID>1600</ObjID>
+    <LangID>0</LangID>
+    <LblTxtChr>Label</LblTxtChr>
+    <OnTxtChr>ENABLE</OnTxtChr>
+    <OffTxtChr>ENABLE</OffTxtChr>
+  </TextCharInfo>
+  <TextCharInfo>
+    <ObjID>1619</ObjID>
+    <LangID>0</LangID>
+    <LblTxtChr>Label</LblTxtChr>
+    <OnTxtChr>READY</OnTxtChr>
+    <OffTxtChr>FAULT</OffTxtChr>
+  </TextCharInfo>
+  <TextCharInfo>
+    <ObjID>2099</ObjID>
+    <LangID>0</LangID>
+    <LblTxtChr>Label</LblTxtChr>
+    <OnTxtChr>On</OnTxtChr>
+    <OffTxtChr>Off</OffTxtChr>
+  </TextCharInfo>
+  <TextCharInfo>
+    <ObjID>2105</ObjID>
+    <LangID>0</LangID>
+    <LblTxtChr>Label</LblTxtChr>
+    <OnTxtChr>On</OnTxtChr>
+    <OffTxtChr>Off</OffTxtChr>
+  </TextCharInfo>
+  <FrameInfo>
+    <ObjID>1341</ObjID>
+    <FrmAlignVal>0</FrmAlignVal>
+    <FrmWidth>16</FrmWidth>
+    <BRColr>255</BRColr>
+    <TLColr>70</TLColr>
+    <BLColr>255</BLColr>
+    <TRColr>70</TRColr>
+    <ShpLineColr>0</ShpLineColr>
+    <OffFrmAlignVal>0</OffFrmAlignVal>
+    <OffFrmWidth>16</OffFrmWidth>
+    <OffBRColr>255</OffBRColr>
+    <OffTLColr>70</OffTLColr>
+    <OffBLColr>255</OffBLColr>
+    <OffTRColr>70</OffTRColr>
+  </FrameInfo>
+  <FrameInfo>
+    <ObjID>1077</ObjID>
+    <FrmAlignVal>0</FrmAlignVal>
+    <FrmWidth>16</FrmWidth>
+    <BRColr>255</BRColr>
+    <TLColr>70</TLColr>
+    <BLColr>255</BLColr>
+    <TRColr>70</TRColr>
+    <ShpLineColr>0</ShpLineColr>
+    <OffFrmAlignVal>0</OffFrmAlignVal>
+    <OffFrmWidth>16</OffFrmWidth>
+    <OffBRColr>255</OffBRColr>
+    <OffTLColr>70</OffTLColr>
+    <OffBLColr>255</OffBLColr>
+    <OffTRColr>70</OffTRColr>
+  </FrameInfo>
+  <FrameInfo>
+    <ObjID>1346</ObjID>
+    <FrmAlignVal>0</FrmAlignVal>
+    <FrmWidth>16</FrmWidth>
+    <BRColr>255</BRColr>
+    <TLColr>70</TLColr>
+    <BLColr>255</BLColr>
+    <TRColr>70</TRColr>
+    <ShpLineColr>0</ShpLineColr>
+    <OffFrmAlignVal>0</OffFrmAlignVal>
+    <OffFrmWidth>16</OffFrmWidth>
+    <OffBRColr>255</OffBRColr>
+    <OffTLColr>70</OffTLColr>
+    <OffBLColr>255</OffBLColr>
+    <OffTRColr>70</OffTRColr>
+  </FrameInfo>
+  <FrameInfo>
+    <ObjID>1600</ObjID>
+    <FrmAlignVal>0</FrmAlignVal>
+    <FrmWidth>16</FrmWidth>
+    <BRColr>255</BRColr>
+    <TLColr>70</TLColr>
+    <BLColr>255</BLColr>
+    <TRColr>70</TRColr>
+    <ShpLineColr>0</ShpLineColr>
+    <OffFrmAlignVal>0</OffFrmAlignVal>
+    <OffFrmWidth>16</OffFrmWidth>
+    <OffBRColr>255</OffBRColr>
+    <OffTLColr>70</OffTLColr>
+    <OffBLColr>255</OffBLColr>
+    <OffTRColr>70</OffTRColr>
+  </FrameInfo>
+  <FrameInfo>
+    <ObjID>1619</ObjID>
+    <FrmAlignVal>0</FrmAlignVal>
+    <FrmWidth>16</FrmWidth>
+    <BRColr>255</BRColr>
+    <TLColr>70</TLColr>
+    <BLColr>255</BLColr>
+    <TRColr>70</TRColr>
+    <ShpLineColr>0</ShpLineColr>
+    <OffFrmAlignVal>0</OffFrmAlignVal>
+    <OffFrmWidth>16</OffFrmWidth>
+    <OffBRColr>255</OffBRColr>
+    <OffTLColr>70</OffTLColr>
+    <OffBLColr>255</OffBLColr>
+    <OffTRColr>70</OffTRColr>
+  </FrameInfo>
+  <FrameInfo>
+    <ObjID>2099</ObjID>
+    <FrmAlignVal>0</FrmAlignVal>
+    <FrmWidth>16</FrmWidth>
+    <BRColr>255</BRColr>
+    <TLColr>70</TLColr>
+    <BLColr>255</BLColr>
+    <TRColr>70</TRColr>
+    <ShpLineColr>0</ShpLineColr>
+    <OffFrmAlignVal>0</OffFrmAlignVal>
+    <OffFrmWidth>16</OffFrmWidth>
+    <OffBRColr>255</OffBRColr>
+    <OffTLColr>70</OffTLColr>
+    <OffBLColr>255</OffBLColr>
+    <OffTRColr>70</OffTRColr>
+  </FrameInfo>
+  <FrameInfo>
+    <ObjID>2105</ObjID>
+    <FrmAlignVal>0</FrmAlignVal>
+    <FrmWidth>16</FrmWidth>
+    <BRColr>255</BRColr>
+    <TLColr>70</TLColr>
+    <BLColr>255</BLColr>
+    <TRColr>70</TRColr>
+    <ShpLineColr>0</ShpLineColr>
+    <OffFrmAlignVal>0</OffFrmAlignVal>
+    <OffFrmWidth>16</OffFrmWidth>
+    <OffBRColr>255</OffBRColr>
+    <OffTLColr>70</OffTLColr>
+    <OffBLColr>255</OffBLColr>
+    <OffTRColr>70</OffTRColr>
+  </FrameInfo>
+</Object>

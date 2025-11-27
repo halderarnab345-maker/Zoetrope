@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<Object>
+  <ObjInfo>
+    <ObjID>1109</ObjID>
+    <DTgID>-1</DTgID>
+    <IDTgID>-1</IDTgID>
+    <FillPtrn>0</FillPtrn>
+    <PtrnColr>0</PtrnColr>
+    <PrcntFill>0</PrcntFill>
+    <Filler>0</Filler>
+    <Gradient>0</Gradient>
+    <GradientCol>4294967295</GradientCol>
+    <Trans>False</Trans>
+  </ObjInfo>
+</Object>

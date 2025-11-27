@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="yes"?>
+<ProjectHeader>
+  <Grid>
+    <Width>40</Width>
+    <Height>40</Height>
+  </Grid>
+  <Created>
+    <Date>5</Date>
+    <Month>3</Month>
+    <Year>2025</Year>
+    <Hour>15</Hour>
+    <Minute>33</Minute>
+    <Second>17</Second>
+    <OSNm>Microsoft Windows 10 Pro</OSNm>
+    <OSArc>32-bit</OSArc>
+    <OSSrvPack />
+    <SWVer>Update Version 2.40.00.26 (June 20, 2024)</SWVer>
+    <ScrnResltn>1366 , 768</ScrnResltn>
+    <DPI>96 , 96</DPI>
+    <RegnlLang>en-IN English (India)(16393)</RegnlLang>
+  </Created>
+  <Modified>
+    <Date>29</Date>
+    <Month>9</Month>
+    <Year>2025</Year>
+    <Hour>10</Hour>
+    <Minute>29</Minute>
+    <Second>1</Second>
+    <OSNm>Microsoft Windows 10 Pro</OSNm>
+    <OSArc>32-bit</OSArc>
+    <OSSrvPack />
+    <SWVer>Update Version 2.37.00.87 (April 04, 2024)</SWVer>
+    <ScrnResltn>1920 , 1080</ScrnResltn>
+    <DPI>96 , 96</DPI>
+    <RegnlLang>en-IN English (India)(16393)</RegnlLang>
+  </Modified>
+  <Project>
+    <Title>zoetrope_Patna</Title>
+    <Author />
+    <Descrp />
+  </Project>
+  <Settings>
+    <DwnUpldIp>192.168.0.254</DwnUpldIp>
+    <DwnUpldEthrntprt>5000</DwnUpldEthrntprt>
+    <DwnUpldRspnsTmout>60</DwnUpldRspnsTmout>
+    <MntrIp>192.168.0.254</MntrIp>
+    <MntrPrt>1100</MntrPrt>
+  </Settings>
+</ProjectHeader>

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+<BlockType>
+  <Powerup>
+    <Type>0</Type>
+    <BlockName>First_Scan</BlockName>
+    <IECBlockType>0</IECBlockType>
+  </Powerup>
+  <Main>
+    <Type>1</Type>
+    <BlockName>Select_Speed</BlockName>
+    <IECBlockType>0</IECBlockType>
+  </Main>
+</BlockType>

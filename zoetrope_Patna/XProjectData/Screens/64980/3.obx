@@ -1,0 +1,103 @@
+<?xml version="1.0" standalone="yes"?>
+<Object>
+  <ObjInfo>
+    <ObjID>1108</ObjID>
+    <DTgID>81</DTgID>
+    <IDTgID>81</IDTgID>
+    <DType>6</DType>
+    <HdDflg>True</HdDflg>
+    <Kypd>True</Kypd>
+    <TlDgtsInNo>0</TlDgtsInNo>
+    <PtLocFrmRight>0</PtLocFrmRight>
+    <TlChrDispd>5</TlChrDispd>
+    <Len>5</Len>
+    <LoLmt>0</LoLmt>
+    <HiLmt>65535</HiLmt>
+    <ByteOrdr>False</ByteOrdr>
+    <FrstOper>0</FrstOper>
+    <FrstOpernd>0</FrstOpernd>
+    <ClrAscii>False</ClrAscii>
+    <ScndOper>0</ScndOper>
+    <ScndOpernd>0</ScndOpernd>
+    <ShwHdEnblTsk>False</ShwHdEnblTsk>
+    <EnblBitTgID>-1</EnblBitTgID>
+    <ChrWidth>0</ChrWidth>
+    <ChrHght>0</ChrHght>
+    <FntIndx>0</FntIndx>
+    <ChrOfFaceNm>Arial</ChrOfFaceNm>
+    <FntSz>10</FntSz>
+    <FntStyle>0</FntStyle>
+    <ATgIsTA>False</ATgIsTA>
+    <ATgIsFV>False</ATgIsFV>
+    <ATgAD1>0</ATgAD1>
+    <AtgAD2>0</AtgAD2>
+    <AtgAD3>0</AtgAD3>
+    <AtgF1>0</AtgF1>
+    <AtgF2>0</AtgF2>
+    <AtgF3>0</AtgF3>
+    <AtgV1D />
+    <AtgV2D />
+    <AtgV3D />
+    <AtgV1N />
+    <AtgV2N />
+    <AtgV3N />
+    <TxtAlign>0</TxtAlign>
+    <IsDTP>0</IsDTP>
+    <Trans>False</Trans>
+    <BEntry>False</BEntry>
+    <BMode>0</BMode>
+    <BTgIDKeypad>-1</BTgIDKeypad>
+    <BTgIDAuto>-1</BTgIDAuto>
+    <BTgIDTrigger>-1</BTgIDTrigger>
+  </ObjInfo>
+  <ObjInfo>
+    <ObjID>1107</ObjID>
+    <DTgID>73</DTgID>
+    <IDTgID>73</IDTgID>
+    <DType>6</DType>
+    <HdDflg>False</HdDflg>
+    <Kypd>True</Kypd>
+    <TlDgtsInNo>0</TlDgtsInNo>
+    <PtLocFrmRight>0</PtLocFrmRight>
+    <TlChrDispd>14</TlChrDispd>
+    <Len>14</Len>
+    <LoLmt>0</LoLmt>
+    <HiLmt>65535</HiLmt>
+    <ByteOrdr>False</ByteOrdr>
+    <FrstOper>0</FrstOper>
+    <FrstOpernd>0</FrstOpernd>
+    <ClrAscii>False</ClrAscii>
+    <ScndOper>0</ScndOper>
+    <ScndOpernd>0</ScndOpernd>
+    <ShwHdEnblTsk>False</ShwHdEnblTsk>
+    <EnblBitTgID>-1</EnblBitTgID>
+    <ChrWidth>0</ChrWidth>
+    <ChrHght>0</ChrHght>
+    <FntIndx>0</FntIndx>
+    <ChrOfFaceNm>Arial</ChrOfFaceNm>
+    <FntSz>10</FntSz>
+    <FntStyle>0</FntStyle>
+    <ATgIsTA>False</ATgIsTA>
+    <ATgIsFV>False</ATgIsFV>
+    <ATgAD1>0</ATgAD1>
+    <AtgAD2>0</AtgAD2>
+    <AtgAD3>0</AtgAD3>
+    <AtgF1>0</AtgF1>
+    <AtgF2>0</AtgF2>
+    <AtgF3>0</AtgF3>
+    <AtgV1D />
+    <AtgV2D />
+    <AtgV3D />
+    <AtgV1N />
+    <AtgV2N />
+    <AtgV3N />
+    <TxtAlign>0</TxtAlign>
+    <IsDTP>0</IsDTP>
+    <Trans>False</Trans>
+    <BEntry>False</BEntry>
+    <BMode>0</BMode>
+    <BTgIDKeypad>-1</BTgIDKeypad>
+    <BTgIDAuto>-1</BTgIDAuto>
+    <BTgIDTrigger>-1</BTgIDTrigger>
+  </ObjInfo>
+</Object>

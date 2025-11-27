@@ -1,0 +1,42 @@
+<?xml version="1.0" standalone="yes"?>
+<ExpDB>
+  <Header>
+    <EnblCalib>0</EnblCalib>
+    <FrmtVer>5</FrmtVer>
+    <TlDefMod>1</TlDefMod>
+    <BaseModType>0</BaseModType>
+  </Header>
+  <ExpnInfo>
+    <ModNo>1</ModNo>
+    <ModAddr>1</ModAddr>
+    <FWRev>0</FWRev>
+    <ModType>26</ModType>
+  </ExpnInfo>
+  <SysParam>
+    <Val>0</Val>
+  </SysParam>
+  <SysParam>
+    <Val>65535</Val>
+  </SysParam>
+  <SysParam>
+    <Val>65535</Val>
+  </SysParam>
+  <SysParam>
+    <Val>65535</Val>
+  </SysParam>
+  <SysParam>
+    <Val>65535</Val>
+  </SysParam>
+  <SysParam>
+    <Val>65535</Val>
+  </SysParam>
+  <SysParam>
+    <Val>1</Val>
+  </SysParam>
+  <SysParam>
+    <Val>65535</Val>
+  </SysParam>
+  <SysParam>
+    <Val>65535</Val>
+  </SysParam>
+</ExpDB>

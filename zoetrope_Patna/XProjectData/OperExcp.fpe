@@ -1,0 +1,236 @@
+====================================================
+06-03-2025 12:22:35
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at System.Windows.Forms.ListBox.NativeUpdateSelection()
+   at System.Windows.Forms.ListBox.SelectedObjectCollection.EnsureUpToDate()
+   at System.Windows.Forms.ListBox.OnHandleDestroyed(EventArgs e)
+   at System.Windows.Forms.Control.WmDestroy(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ListBox.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+An error has occured in ListBox
+====================================================
+====================================================
+23-04-2025 17:30:40
+System.IO.IOException: The I/O operation has been aborted because of either a thread exit or an application request.
+
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream.EndRead(IAsyncResult asyncResult)
+   at System.IO.Ports.SerialStream.Read(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialStream.Read(Byte[] array, Int32 offset, Int32 count)
+   at System.IO.Ports.SerialPort.Read(Byte[] buffer, Int32 offset, Int32 count)
+   at ClassList.Serial.ReceiveFrame()
+   at ClassList.Serial.Plc_Download_Protocol(String pFileName, Byte pFileID)
+   at ClassList.ProjectPrizm3.Download(DownloadData pDownloadData, String pComNoOrIpAddress, String pFileName, Int32 pProductID, Int32 pBaudRate, Byte pParity, Byte pByteSize, Byte pStopBits, Byte[] _setupFrameMode)
+   at ClassList.Application.OnSerialDownLoad(Int32 pProjectID, DownloadData pDownloadData, String pComNoOrIpAddress, String pFileName, Int32 pProductID, Int32 pBaudRate, Byte pParity, Byte pByteSize, Byte pStopBits, Byte[] _setupFrameMode)
+   at Prizm4.PrizmMDI.GetDownLoadParameter(DownloadType pDownloadType, DownloadData pDownloadData, String pComNoOrIpAddress, Int32 pBaudRate, Byte pParity, Byte pByteSize, Byte pStopBits, ProgressBar pProgressBar, StatusStrip pStatusBar, Label pProgressLabel, Byte[] _setupFrameMode)
+   at Prizm4.DownLoad.btnCommunication_Download_Click(Object sender, EventArgs e)
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+An error has occured in InternalResources
+====================================================
+====================================================
+23-04-2025 17:31:16
+System.IO.IOException: The I/O operation has been aborted because of either a thread exit or an application request.
+
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream.EndRead(IAsyncResult asyncResult)
+   at System.IO.Ports.SerialStream.Read(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialStream.Read(Byte[] array, Int32 offset, Int32 count)
+   at System.IO.Ports.SerialPort.Read(Byte[] buffer, Int32 offset, Int32 count)
+   at ClassList.Serial.ReceiveFrame()
+   at ClassList.Serial.Plc_Download_Protocol(String pFileName, Byte pFileID)
+   at ClassList.ProjectPrizm3.Download(DownloadData pDownloadData, String pComNoOrIpAddress, String pFileName, Int32 pProductID, Int32 pBaudRate, Byte pParity, Byte pByteSize, Byte pStopBits, Byte[] _setupFrameMode)
+   at ClassList.Application.OnSerialDownLoad(Int32 pProjectID, DownloadData pDownloadData, String pComNoOrIpAddress, String pFileName, Int32 pProductID, Int32 pBaudRate, Byte pParity, Byte pByteSize, Byte pStopBits, Byte[] _setupFrameMode)
+   at Prizm4.PrizmMDI.GetDownLoadParameter(DownloadType pDownloadType, DownloadData pDownloadData, String pComNoOrIpAddress, Int32 pBaudRate, Byte pParity, Byte pByteSize, Byte pStopBits, ProgressBar pProgressBar, StatusStrip pStatusBar, Label pProgressLabel, Byte[] _setupFrameMode)
+   at Prizm4.DownLoad.btnCommunication_Download_Click(Object sender, EventArgs e)
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+An error has occured in InternalResources
+====================================================
+====================================================
+30-04-2025 20:29:08
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at System.Windows.Forms.ListBox.ItemArray.SetState(Int32 index, Int32 stateMask, Boolean value)
+   at System.Windows.Forms.ListBox.SelectedObjectCollection.SetSelected(Int32 index, Boolean value)
+   at System.Windows.Forms.ListBox.NativeUpdateSelection()
+   at System.Windows.Forms.ListBox.SelectedObjectCollection.EnsureUpToDate()
+   at System.Windows.Forms.ListBox.OnHandleDestroyed(EventArgs e)
+   at System.Windows.Forms.Control.WmDestroy(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ListBox.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+An error has occured in ItemArray
+====================================================
+====================================================
+23-05-2025 15:12:59
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at System.Windows.Forms.ListBox.NativeUpdateSelection()
+   at System.Windows.Forms.ListBox.SelectedObjectCollection.EnsureUpToDate()
+   at System.Windows.Forms.ListBox.OnHandleDestroyed(EventArgs e)
+   at System.Windows.Forms.Control.WmDestroy(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ListBox.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+An error has occured in ListBox
+====================================================
+====================================================
+04-07-2025 13:07:50
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at System.Windows.Forms.ListBox.NativeUpdateSelection()
+   at System.Windows.Forms.ListBox.SelectedObjectCollection.EnsureUpToDate()
+   at System.Windows.Forms.ListBox.OnHandleDestroyed(EventArgs e)
+   at System.Windows.Forms.Control.WmDestroy(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ListBox.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+An error has occured in ListBox
+====================================================
+====================================================
+05-09-2025 19:06:28
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at System.Windows.Forms.ListBox.NativeUpdateSelection()
+   at System.Windows.Forms.ListBox.SelectedObjectCollection.EnsureUpToDate()
+   at System.Windows.Forms.ListBox.OnHandleDestroyed(EventArgs e)
+   at System.Windows.Forms.Control.WmDestroy(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ListBox.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+An error has occured in ListBox
+====================================================
+====================================================
+05-09-2025 19:07:07
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at System.Windows.Forms.ListBox.NativeUpdateSelection()
+   at System.Windows.Forms.ListBox.SelectedObjectCollection.EnsureUpToDate()
+   at System.Windows.Forms.ListBox.OnHandleDestroyed(EventArgs e)
+   at System.Windows.Forms.Control.WmDestroy(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ListBox.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+An error has occured in ListBox
+====================================================
+====================================================
+06-09-2025 19:33:44
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at System.Windows.Forms.ListBox.ItemArray.SetState(Int32 index, Int32 stateMask, Boolean value)
+   at System.Windows.Forms.ListBox.SelectedObjectCollection.SetSelected(Int32 index, Boolean value)
+   at System.Windows.Forms.ListBox.NativeUpdateSelection()
+   at System.Windows.Forms.ListBox.SelectedObjectCollection.EnsureUpToDate()
+   at System.Windows.Forms.ListBox.OnHandleDestroyed(EventArgs e)
+   at System.Windows.Forms.Control.WmDestroy(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ListBox.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+An error has occured in ItemArray
+====================================================
+====================================================
+06-09-2025 19:35:17
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at System.Windows.Forms.ListBox.ItemArray.SetState(Int32 index, Int32 stateMask, Boolean value)
+   at System.Windows.Forms.ListBox.SelectedObjectCollection.SetSelected(Int32 index, Boolean value)
+   at System.Windows.Forms.ListBox.NativeUpdateSelection()
+   at System.Windows.Forms.ListBox.SelectedObjectCollection.EnsureUpToDate()
+   at System.Windows.Forms.ListBox.OnHandleDestroyed(EventArgs e)
+   at System.Windows.Forms.Control.WmDestroy(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ListBox.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+An error has occured in ItemArray
+====================================================
+====================================================
+27-09-2025 17:16:25
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at System.Windows.Forms.ListBox.NativeUpdateSelection()
+   at System.Windows.Forms.ListBox.SelectedObjectCollection.EnsureUpToDate()
+   at System.Windows.Forms.ListBox.OnHandleDestroyed(EventArgs e)
+   at System.Windows.Forms.Control.WmDestroy(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ListBox.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+An error has occured in ListBox
+====================================================
+====================================================
+27-09-2025 17:22:27
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at System.Windows.Forms.ListBox.NativeUpdateSelection()
+   at System.Windows.Forms.ListBox.SelectedObjectCollection.EnsureUpToDate()
+   at System.Windows.Forms.ListBox.OnHandleDestroyed(EventArgs e)
+   at System.Windows.Forms.Control.WmDestroy(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ListBox.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+An error has occured in ListBox
+====================================================
+====================================================
+29-09-2025 10:03:25
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at System.Windows.Forms.ListBox.NativeUpdateSelection()
+   at System.Windows.Forms.ListBox.SelectedObjectCollection.EnsureUpToDate()
+   at System.Windows.Forms.ListBox.OnHandleDestroyed(EventArgs e)
+   at System.Windows.Forms.Control.WmDestroy(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ListBox.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+An error has occured in ListBox
+====================================================
+====================================================
+29-09-2025 10:29:01
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at System.Windows.Forms.ListBox.NativeUpdateSelection()
+   at System.Windows.Forms.ListBox.SelectedObjectCollection.EnsureUpToDate()
+   at System.Windows.Forms.ListBox.OnHandleDestroyed(EventArgs e)
+   at System.Windows.Forms.Control.WmDestroy(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ListBox.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+An error has occured in ListBox
+====================================================
+====================================================
+24-11-2025 17:56:51
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at System.Windows.Forms.ListBox.ItemArray.SetState(Int32 index, Int32 stateMask, Boolean value)
+   at System.Windows.Forms.ListBox.SelectedObjectCollection.SetSelected(Int32 index, Boolean value)
+   at System.Windows.Forms.ListBox.NativeUpdateSelection()
+   at System.Windows.Forms.ListBox.SelectedObjectCollection.EnsureUpToDate()
+   at System.Windows.Forms.ListBox.OnHandleDestroyed(EventArgs e)
+   at System.Windows.Forms.Control.WmDestroy(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ListBox.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+An error has occured in ItemArray
+====================================================

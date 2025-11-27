@@ -1,0 +1,11 @@
+[:__MODULE_MAIN] 
+[:__LABEL1] 
+
+<IF:CCBLEND>
+534 [:__LABEL4] 
+[:__LABEL3] 
+
+<ENDIF>
+234 
+[:__LABEL2] 
+[:__MODULE_END_MAIN] 

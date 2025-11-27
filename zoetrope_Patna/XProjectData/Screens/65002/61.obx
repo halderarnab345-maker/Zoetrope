@@ -1,0 +1,97 @@
+<?xml version="1.0" standalone="yes"?>
+<Object>
+  <ObjInfo>
+    <ObjID>1220</ObjID>
+    <DTgID>-1</DTgID>
+    <IDTgID>-1</IDTgID>
+    <SimLang>0</SimLang>
+    <ShwHdEnblTsk>False</ShwHdEnblTsk>
+    <EnblBitTgID>-1</EnblBitTgID>
+    <NoOfLang>1</NoOfLang>
+    <FBTag>0</FBTag>
+    <BtnStyle>0</BtnStyle>
+    <ShpID>39</ShpID>
+    <OnTxtBtnStyle>1</OnTxtBtnStyle>
+    <OffTxtBtnStyle>0</OffTxtBtnStyle>
+    <Border>1</Border>
+    <Lbl>0</Lbl>
+    <Gradient>0</Gradient>
+    <OnClickAction>No Action</OnClickAction>
+    <MouseHover>0</MouseHover>
+    <ATgIsTA>False</ATgIsTA>
+    <ATgIsFV>False</ATgIsFV>
+    <ATgAD1>0</ATgAD1>
+    <AtgAD2>0</AtgAD2>
+    <AtgAD3>0</AtgAD3>
+    <AtgF1>0</AtgF1>
+    <AtgF2>0</AtgF2>
+    <AtgF3>0</AtgF3>
+    <AtgV1D />
+    <AtgV2D />
+    <AtgV3D />
+    <AtgV1N />
+    <AtgV2N />
+    <AtgV3N />
+    <Trans>False</Trans>
+    <TextAlign>0</TextAlign>
+  </ObjInfo>
+  <LabelInfo>
+    <ObjID>1220</ObjID>
+    <LblPos>0</LblPos>
+    <LblColr>0</LblColr>
+    <LblBGColr>19</LblBGColr>
+    <LblPtrn>0</LblPtrn>
+    <LblPtrnCol>0</LblPtrnCol>
+    <LblChrOfFaceNm>Tahoma</LblChrOfFaceNm>
+    <LblFntSz>10</LblFntSz>
+    <LblFntStyle>0</LblFntStyle>
+  </LabelInfo>
+  <OnTextInfo>
+    <ObjID>1220</ObjID>
+    <TxtColIndx>0</TxtColIndx>
+    <LblTxtBgCol>19</LblTxtBgCol>
+    <LblTxtPtrn>0</LblTxtPtrn>
+    <LblTxtPtrnCol>0</LblTxtPtrnCol>
+    <OnTxtChrFaceNm>Arial</OnTxtChrFaceNm>
+    <OnTxtFntSz>10</OnTxtFntSz>
+    <OnTxtFntStyle>0</OnTxtFntStyle>
+    <ImgNm />
+    <GradientCol>0</GradientCol>
+    <OnClickActionCol>0</OnClickActionCol>
+    <MouseHoverCol>0</MouseHoverCol>
+  </OnTextInfo>
+  <OffTextInfo>
+    <ObjID>1220</ObjID>
+    <TxtColIndx>0</TxtColIndx>
+    <LblTxtBgCol>19</LblTxtBgCol>
+    <LblTxtPtrn>0</LblTxtPtrn>
+    <LblTxtPtrnCol>0</LblTxtPtrnCol>
+    <OffTxtChrFaceNm>Tahoma</OffTxtChrFaceNm>
+    <OffTxtFntSz>16</OffTxtFntSz>
+    <OffTxtFntStyle>0</OffTxtFntStyle>
+    <ImgNm />
+  </OffTextInfo>
+  <TextCharInfo>
+    <ObjID>1220</ObjID>
+    <LangID>0</LangID>
+    <LblTxtChr>Label</LblTxtChr>
+    <OnTxtChr>X</OnTxtChr>
+    <OffTxtChr>Off</OffTxtChr>
+  </TextCharInfo>
+  <FrameInfo>
+    <ObjID>1220</ObjID>
+    <FrmAlignVal>0</FrmAlignVal>
+    <FrmWidth>16</FrmWidth>
+    <BRColr>255</BRColr>
+    <TLColr>70</TLColr>
+    <BLColr>255</BLColr>
+    <TRColr>70</TRColr>
+    <ShpLineColr>0</ShpLineColr>
+    <OffFrmAlignVal>0</OffFrmAlignVal>
+    <OffFrmWidth>16</OffFrmWidth>
+    <OffBRColr>255</OffBRColr>
+    <OffTLColr>70</OffTLColr>
+    <OffBLColr>255</OffBLColr>
+    <OffTRColr>70</OffTRColr>
+  </FrameInfo>
+</Object>

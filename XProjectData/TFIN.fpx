@@ -1,0 +1,218 @@
+<?xml version="1.0" standalone="yes"?>
+<FTDB>
+  <FTInfo>
+    <bFTCfg>0</bFTCfg>
+    <bGpNbr>0</bGpNbr>
+    <bSrcMd>0</bSrcMd>
+    <bDstMd>0</bDstMd>
+    <bAPN>0</bAPN>
+    <bUnm>0</bUnm>
+    <bPrd>0</bPrd>
+    <bSrvAd>0</bSrvAd>
+    <bdstPth>0</bdstPth>
+    <bSFlAtEv>0</bSFlAtEv>
+    <SrcMd>0</SrcMd>
+    <DstMd>0</DstMd>
+    <FlSndHr>0</FlSndHr>
+    <FlSndMn>0</FlSndMn>
+    <FlSndSc>0</FlSndSc>
+    <GpNb />
+    <APN />
+    <Unm />
+    <Prd />
+    <SrvAd />
+    <dstPth />
+    <tgIDEnblBt>0</tgIDEnblBt>
+    <tgIDRsndBt>0</tgIDRsndBt>
+    <tgIDGpNbr>0</tgIDGpNbr>
+    <tgIDSrcMd>0</tgIDSrcMd>
+    <tgIDDstMd>0</tgIDDstMd>
+    <tgIDAPN>0</tgIDAPN>
+    <tgIDUNm>0</tgIDUNm>
+    <tgIDPrd>0</tgIDPrd>
+    <tgIDSrvAd>0</tgIDSrvAd>
+    <tgIDDstPth>0</tgIDDstPth>
+    <tgIDFlSndAtEv>0</tgIDFlSndAtEv>
+    <tgIDMdSt>0</tgIDMdSt>
+    <tgIDNtCnSt>0</tgIDNtCnSt>
+    <tgIDFTSt>0</tgIDFTSt>
+    <tgIDFlSndSt>0</tgIDFlSndSt>
+    <tgIDFTBlkSt>0</tgIDFTBlkSt>
+  </FTInfo>
+  <EnblBt>
+    <ATgIsTA>False</ATgIsTA>
+    <ATgIsFV>False</ATgIsFV>
+    <ATgAD1>0</ATgAD1>
+    <AtgAD2>0</AtgAD2>
+    <AtgAD3>0</AtgAD3>
+    <AtgF1>0</AtgF1>
+    <AtgF2>0</AtgF2>
+    <AtgF3>0</AtgF3>
+    <AtgV1D />
+    <AtgV2D />
+    <AtgV3D />
+    <AtgV1N />
+    <AtgV2N />
+    <AtgV3N />
+  </EnblBt>
+  <RsndBt>
+    <ATgIsTA>False</ATgIsTA>
+    <ATgIsFV>False</ATgIsFV>
+    <ATgAD1>0</ATgAD1>
+    <AtgAD2>0</AtgAD2>
+    <AtgAD3>0</AtgAD3>
+    <AtgF1>0</AtgF1>
+    <AtgF2>0</AtgF2>
+    <AtgF3>0</AtgF3>
+    <AtgV1D />
+    <AtgV2D />
+    <AtgV3D />
+    <AtgV1N />
+    <AtgV2N />
+    <AtgV3N />
+  </RsndBt>
+  <GpNbr>
+    <ATgIsTA>False</ATgIsTA>
+    <ATgIsFV>False</ATgIsFV>
+    <ATgAD1>0</ATgAD1>
+    <AtgAD2>0</AtgAD2>
+    <AtgAD3>0</AtgAD3>
+    <AtgF1>0</AtgF1>
+    <AtgF2>0</AtgF2>
+    <AtgF3>0</AtgF3>
+    <AtgV1D />
+    <AtgV2D />
+    <AtgV3D />
+    <AtgV1N />
+    <AtgV2N />
+    <AtgV3N />
+  </GpNbr>
+  <SrcMd>
+    <ATgIsTA>False</ATgIsTA>
+    <ATgIsFV>False</ATgIsFV>
+    <ATgAD1>0</ATgAD1>
+    <AtgAD2>0</AtgAD2>
+    <AtgAD3>0</AtgAD3>
+    <AtgF1>0</AtgF1>
+    <AtgF2>0</AtgF2>
+    <AtgF3>0</AtgF3>
+    <AtgV1D />
+    <AtgV2D />
+    <AtgV3D />
+    <AtgV1N />
+    <AtgV2N />
+    <AtgV3N />
+  </SrcMd>
+  <DstMd>
+    <ATgIsTA>False</ATgIsTA>
+    <ATgIsFV>False</ATgIsFV>
+    <ATgAD1>0</ATgAD1>
+    <AtgAD2>0</AtgAD2>
+    <AtgAD3>0</AtgAD3>
+    <AtgF1>0</AtgF1>
+    <AtgF2>0</AtgF2>
+    <AtgF3>0</AtgF3>
+    <AtgV1D />
+    <AtgV2D />
+    <AtgV3D />
+    <AtgV1N />
+    <AtgV2N />
+    <AtgV3N />
+  </DstMd>
+  <FlSndAtEv>
+    <ATgIsTA>False</ATgIsTA>
+    <ATgIsFV>False</ATgIsFV>
+    <ATgAD1>0</ATgAD1>
+    <AtgAD2>0</AtgAD2>
+    <AtgAD3>0</AtgAD3>
+    <AtgF1>0</AtgF1>
+    <AtgF2>0</AtgF2>
+    <AtgF3>0</AtgF3>
+    <AtgV1D />
+    <AtgV2D />
+    <AtgV3D />
+    <AtgV1N />
+    <AtgV2N />
+    <AtgV3N />
+  </FlSndAtEv>
+  <MdSt>
+    <ATgIsTA>False</ATgIsTA>
+    <ATgIsFV>False</ATgIsFV>
+    <ATgAD1>0</ATgAD1>
+    <AtgAD2>0</AtgAD2>
+    <AtgAD3>0</AtgAD3>
+    <AtgF1>0</AtgF1>
+    <AtgF2>0</AtgF2>
+    <AtgF3>0</AtgF3>
+    <AtgV1D />
+    <AtgV2D />
+    <AtgV3D />
+    <AtgV1N />
+    <AtgV2N />
+    <AtgV3N />
+  </MdSt>
+  <NtCnSt>
+    <ATgIsTA>False</ATgIsTA>
+    <ATgIsFV>False</ATgIsFV>
+    <ATgAD1>0</ATgAD1>
+    <AtgAD2>0</AtgAD2>
+    <AtgAD3>0</AtgAD3>
+    <AtgF1>0</AtgF1>
+    <AtgF2>0</AtgF2>
+    <AtgF3>0</AtgF3>
+    <AtgV1D />
+    <AtgV2D />
+    <AtgV3D />
+    <AtgV1N />
+    <AtgV2N />
+    <AtgV3N />
+  </NtCnSt>
+  <FTSt>
+    <ATgIsTA>False</ATgIsTA>
+    <ATgIsFV>False</ATgIsFV>
+    <ATgAD1>0</ATgAD1>
+    <AtgAD2>0</AtgAD2>
+    <AtgAD3>0</AtgAD3>
+    <AtgF1>0</AtgF1>
+    <AtgF2>0</AtgF2>
+    <AtgF3>0</AtgF3>
+    <AtgV1D />
+    <AtgV2D />
+    <AtgV3D />
+    <AtgV1N />
+    <AtgV2N />
+    <AtgV3N />
+  </FTSt>
+  <FlSndSt>
+    <ATgIsTA>False</ATgIsTA>
+    <ATgIsFV>False</ATgIsFV>
+    <ATgAD1>0</ATgAD1>
+    <AtgAD2>0</AtgAD2>
+    <AtgAD3>0</AtgAD3>
+    <AtgF1>0</AtgF1>
+    <AtgF2>0</AtgF2>
+    <AtgF3>0</AtgF3>
+    <AtgV1D />
+    <AtgV2D />
+    <AtgV3D />
+    <AtgV1N />
+    <AtgV2N />
+    <AtgV3N />
+  </FlSndSt>
+  <FTBlkSt>
+    <ATgIsTA>False</ATgIsTA>
+    <ATgIsFV>False</ATgIsFV>
+    <ATgAD1>0</ATgAD1>
+    <AtgAD2>0</AtgAD2>
+    <AtgAD3>0</AtgAD3>
+    <AtgF1>0</AtgF1>
+    <AtgF2>0</AtgF2>
+    <AtgF3>0</AtgF3>
+    <AtgV1D />
+    <AtgV2D />
+    <AtgV3D />
+    <AtgV1N />
+    <AtgV2N />
+    <AtgV3N />
+  </FTBlkSt>
+</FTDB>

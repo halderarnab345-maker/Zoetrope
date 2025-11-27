@@ -1,0 +1,16 @@
+Compiler V9.4.101.207
+>> Complex variables stored in a separate segment
+Loading application symbols...
+Main
+Select_Speed
+First_Scan
+Building application data...
+Complex data types definition = 116 bytes
+Compiled for OEM specific runtime RENU
+< 122 BOOL/SINT; 125 INT; 43 DINT/REAL; 0 LINT/LREAL; 11 TIME; 0 STRING;  - CRC = 347705d0 >
+On Line Change is disabled
+< CT Segment = 88 byte(s) >
+Relocating code...
+< Code CRC=f8e92e90 - File CRC=98a7beda - Size=3400 >
+< 3 POUs - 3 programs, 0 sub-programs, 0 UDFBs >
+No error detected

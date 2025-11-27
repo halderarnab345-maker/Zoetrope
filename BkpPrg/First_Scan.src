@@ -1,0 +1,7 @@
+#info=LDEDIT
+BOF
+SOR [0,0] (**) (**)
+OTR [1,0] (*Start*) (**)
+EOR [0,0] 
+EOF
+#endinfo
